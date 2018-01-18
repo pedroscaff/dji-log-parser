@@ -6,7 +6,8 @@
   "license": "MIT",
   "dependencies": {
     "bytebuffer": "^5.0.0",
-    "long": "^3.0.1"
+    "long": "^3.0.1",
+    "minimist": "^1.2.0"
   },
   "repository": {
     "type": "git",
