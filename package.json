@@ -1,7 +1,8 @@
 {
   "name": "dji-log-parser",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
+  "main": "./index.js",
   "author": "",
   "license": "MIT",
   "dependencies": {
@@ -12,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mikeemoo/dji-log-parser.git"
+    "url": "https://github.com/pedroscaff/dji-log-parser.git"
   },
   "scripts": {
     "build": "webpack --config webpack.config.js"
